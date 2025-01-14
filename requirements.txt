@@ -1,3 +1,0 @@
-dividend-calculator/
-├── DivCal.py
-└── requirements.txt
